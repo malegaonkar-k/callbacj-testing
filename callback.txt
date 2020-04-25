@@ -1,0 +1,13 @@
+callback is any function that is passed as an argument to another function and then invoked
+from within that function.
+
+in js function are first class citizen
+function themselves are objects and they can be used like any other js objects
+can store as var
+return from function
+pas as argument
+
+arr.forEach() is exmaple of callback
+
+
+

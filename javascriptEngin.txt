@@ -1,0 +1,7 @@
+javascript engie uses two datastructure while executing code
+1. call stack
+2. message queue
+
+# . event loop -> which constantly checs if there is some thing in the message quee that need to exected.
+
+--every time the call stack is empty js engine checks if there is some thing in messge queue to exectue
